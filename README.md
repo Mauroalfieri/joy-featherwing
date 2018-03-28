@@ -29,12 +29,12 @@ The board Feather esp8266 Adafruit is used to establish the connection WiFi and 
 
 The Pc/Mac interface, written in Processing, receive the data through a connection Udp with protocol OSC and  renderize a graphic joypad:
 
-![interface joypad processing] (https://github.com/Mauroalfieri/joy-featherwing/blob/master/Processing/Processing%20joypad%20interface.jpg?raw=true)
+![interface joypad processing](/Mauroalfieri/joy-featherwing/blob/master/Processing/Processing%20joypad%20interface.jpg?raw=true)
 
 ### Demo - video
 You can show the demo video on my [youtube channel](https://www.youtube.com/user/doctoralma77) or below:
 
-<iframe width="600" height="337" src="https://www.youtube.com/embed/FlawIXcAiWg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![JoyPad Demo](http://img.youtube.com/vi/FlawIXcAiWg/0.jpg)](https://www.youtube.com/watch?v=FlawIXcAiWg "Joypad Demo")
 
 ### License 
 All source code are shared under CC-by-sa-4.0
